@@ -28,6 +28,8 @@ My experience covers understanding business workflows, gathering and analysing r
 
 Working across these domains has given me exposure to very different product challenges — from clinical data accuracy and laboratory device connectivity to travel booking journeys, corporate policy controls and security incident lifecycles.
 
+A few scale and outcome measures from this work include **10+ healthcare organisations**, **3,000+ infrastructure nodes**, **80+ travel product user stories**, and measurable improvements in booking performance, data consistency, delivery throughput and incident response.
+
 I enjoy connecting the business problem with the technical solution and making sure the team is building something useful, clear and measurable.
 
 ## 02 / Four product domains
@@ -47,6 +49,7 @@ The four domains below represent the breadth of my product and business analysis
         <li>Laboratory device interfacing and result exchange</li>
         <li>Data validation, UAT and release quality</li>
       </ul>
+      <p><strong>Scale & outcomes:</strong> Supported implementations across <strong>10+ healthcare organisations</strong> and validation across <strong>15+ production releases</strong>. Reported outcomes included <strong>18% better data consistency</strong>, <strong>40% less manual effort</strong> through automation, and <strong>zero operational failures at go-live</strong>.</p>
       <p><em>Product lens: clinical workflow accuracy, data integrity, interoperability and operational reliability.</em></p>
     </td>
     <td width="50%" valign="top">
@@ -60,6 +63,7 @@ The four domains below represent the breadth of my product and business analysis
         <li>GDS, airline, LCC and NDC integrations</li>
         <li>Pricing, availability, booking, cancellation and servicing</li>
       </ul>
+      <p><strong>Reported outcomes:</strong> Booking success improved by approximately <strong>15%</strong>, while booking drop-offs reduced by <strong>10–12%</strong>.</p>
       <p><em>Product lens: booking conversion, supplier connectivity, search relevance and transaction success.</em></p>
     </td>
   </tr>
@@ -89,6 +93,7 @@ The four domains below represent the breadth of my product and business analysis
         <li>Incident lifecycle, ownership and resolution states</li>
         <li>Dashboards for MTTR, incident trends and SLA compliance</li>
       </ul>
+      <p><strong>Scale & outcomes:</strong> Scanner orchestration covered <strong>3,000+ infrastructure nodes</strong>. Reported MTTR reduced by <strong>35%</strong>, while alert-to-actionable-incident conversion improved from <strong>20% to 75%</strong>.</p>
       <p><em>Product lens: actionable findings, response time, incident resolution and SLA performance.</em></p>
     </td>
   </tr>
@@ -145,36 +150,49 @@ Across these domains, my work connects business expectations with engineering ex
   </tr>
 </table>
 
-## 04 / Product outcomes
+## 04 / Quantified product impact
 
-A few reported project-level outcome measures from the travel and security product work:
+Selected scale and outcome measures from the projects and product work described above. These are reported project-level results; they should be read in the context of the relevant team, release and measurement period.
 
 <table>
   <tr>
     <td width="25%" align="center">
-      <h1>~15%</h1>
-      <strong>Booking success</strong><br/>
-      <sub>Improvement reported</sub>
+      <h1>10+</h1>
+      <strong>Healthcare organisations</strong><br/>
+      <sub>HIMS implementations</sub>
     </td>
     <td width="25%" align="center">
-      <h1>10–12%</h1>
-      <strong>Booking drop-offs</strong><br/>
-      <sub>Reduction reported</sub>
+      <h1>15+</h1>
+      <strong>Production releases</strong><br/>
+      <sub>Healthcare delivery & validation</sub>
     </td>
     <td width="25%" align="center">
-      <h1>35%</h1>
-      <strong>MTTR</strong><br/>
-      <sub>Reduction reported</sub>
+      <h1>80+</h1>
+      <strong>User stories</strong><br/>
+      <sub>Travel platform scope</sub>
     </td>
     <td width="25%" align="center">
-      <h1>20% → 75%</h1>
-      <strong>Actionable incidents</strong><br/>
-      <sub>Conversion improvement</sub>
+      <h1>3,000+</h1>
+      <strong>Infrastructure nodes</strong><br/>
+      <sub>Vulnerability scanning scope</sub>
     </td>
   </tr>
 </table>
 
-I focus on connecting product and delivery decisions to outcomes such as booking completion, data accuracy, workflow efficiency, incident response and user experience.
+| Product domain | Quantified result | What it indicates |
+|---|---:|---|
+| Healthcare systems | **+18%** data consistency | Improved consistency across healthcare data workflows |
+| Healthcare systems | **−40%** manual effort | Less manual work through process automation |
+| Healthcare systems | **0** operational failures at go-live | Stable go-live outcome reported for the implementation |
+| B2B & B2C travel technology | **~15%** higher booking success | Improved completion across booking journeys |
+| B2B & B2C travel technology | **10–12%** fewer booking drop-offs | Reduced abandonment during booking |
+| Travel platform delivery | **12** technical specifications | Technical scope and integration requirements documented |
+| Travel platform delivery | **+25%** delivery throughput | Improved delivery flow |
+| Travel platform delivery | **−60%** production defect leakage | Fewer defects reaching production |
+| Vulnerability & incident management | **−35%** MTTR | Faster incident resolution |
+| Vulnerability & incident management | **20% → 75%** actionable incident conversion | More alerts converted into actionable incidents |
+
+I use these measures to connect product and delivery decisions to outcomes such as data quality, booking completion, delivery performance and incident response. Where a metric is a team or project result, I describe it as such rather than claiming it was achieved by one person alone.
 
 ## 05 / Technical understanding
 
