@@ -3,261 +3,244 @@
 <img src="assets/terminal-banner.svg" width="100%" alt="Nithin Ravindran — Product Owner and Technical Business Analyst" />
 
 <p>
-  <a href="https://github.com/NithinRavindran/Corporate-Travel-Platform"><img src="https://img.shields.io/badge/FEATURED_PROJECT-Corporate_Travel_Platform-183B56?style=for-the-badge&logo=github&logoColor=white" alt="Corporate Travel Platform" /></a>
   <img src="https://img.shields.io/badge/EXPERIENCE-4%2B_years-167D78?style=for-the-badge" alt="4+ years of experience" />
+  <img src="https://img.shields.io/badge/PRODUCT_DOMAINS-4-315A8B?style=for-the-badge" alt="Four product domains" />
   <img src="https://img.shields.io/badge/FOCUS-Product_Management-5B5BD6?style=for-the-badge" alt="Product Management" />
 </p>
 
-### I connect customer problems, business priorities and technology delivery.
+### Turning complex business needs into clear product outcomes.
 
 **Product Owner · Product Business Analyst · Technical Business Analyst**
 
-[Explore featured project](https://github.com/NithinRavindran/Corporate-Travel-Platform) &nbsp;·&nbsp;
-[Browse repositories](https://github.com/NithinRavindran?tab=repositories) &nbsp;·&nbsp;
-[Connect on GitHub](https://github.com/NithinRavindran)
+[Explore my repositories](https://github.com/NithinRavindran?tab=repositories) &nbsp;·&nbsp;
+[Corporate Travel Platform project](https://github.com/NithinRavindran/Corporate-Travel-Platform) &nbsp;·&nbsp;
+[GitHub profile](https://github.com/NithinRavindran)
 
 </div>
 
 ---
 
-## 01 / Product perspective
+## 01 / About me
 
-I’m a product-focused professional with **4+ years of experience** across travel technology, corporate travel, healthcare systems and vulnerability management.
+I’m a product-focused professional with **4+ years of experience** working across four different technology domains: **Healthcare Systems, B2B & B2C Travel Technology, Corporate Travel Management, and Vulnerability & Incident Management**.
 
-I work at the intersection of **users, business and engineering** — understanding the problem, shaping requirements, making priorities clear and helping teams deliver reliable product experiences.
+My experience covers understanding business workflows, gathering and analysing requirements, defining product behaviour, managing backlogs, working with engineering and QA teams, supporting integrations, coordinating UAT and helping deliver releases.
 
-I’m particularly interested in products where complex workflows, integrations and operational needs must come together in a simple experience.
+Working across these domains has given me exposure to very different product challenges — from clinical data accuracy and laboratory device connectivity to travel booking journeys, corporate policy controls and security incident lifecycles.
+
+I enjoy connecting the business problem with the technical solution and making sure the team is building something useful, clear and measurable.
+
+## 02 / Four product domains
+
+The four domains below represent the breadth of my product and business analysis experience. Each has its own users, workflows, integrations and success measures.
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>Discover</h3>
-      Understand user needs, business goals, pain points and existing workflows.
+    <td width="50%" valign="top">
+      <h3>01 · Healthcare Systems</h3>
+      <strong>HIMS · EHR / EMR · LIS · Laboratory Device Interfacing</strong>
+      <p>Hospital and laboratory systems supporting clinical, administrative and diagnostic workflows.</p>
+      <ul>
+        <li>Patient registration, scheduling and clinical workflows</li>
+        <li>Electronic Health / Medical Records</li>
+        <li>Pharmacy, inventory and laboratory modules</li>
+        <li>Laboratory device interfacing and result exchange</li>
+        <li>Data validation, UAT and release quality</li>
+      </ul>
+      <p><em>Product lens: clinical workflow accuracy, data integrity, interoperability and operational reliability.</em></p>
     </td>
-    <td width="33%" valign="top">
-      <h3>Define</h3>
-      Shape product requirements, user stories, acceptance criteria and priorities.
+    <td width="50%" valign="top">
+      <h3>02 · B2B & B2C Travel Technology</h3>
+      <strong>Travel booking · Supplier integrations · Booking engine</strong>
+      <p>Travel technology serving business partners and end customers across digital booking journeys.</p>
+      <ul>
+        <li>B2C flight, hotel and travel booking journeys</li>
+        <li>B2B partner and agent booking workflows</li>
+        <li>Flights, hotels, transfers, activities and packages</li>
+        <li>GDS, airline, LCC and NDC integrations</li>
+        <li>Pricing, availability, booking, cancellation and servicing</li>
+      </ul>
+      <p><em>Product lens: booking conversion, supplier connectivity, search relevance and transaction success.</em></p>
     </td>
-    <td width="34%" valign="top">
-      <h3>Deliver</h3>
-      Work with design, engineering and QA through validation, release and improvement.
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · Corporate Travel Management</h3>
+      <strong>Managed business travel · Policy · Approvals · Spend</strong>
+      <p>Corporate travel workflows that help organisations manage employee trips and travel spend.</p>
+      <ul>
+        <li>Employee travel requests and booking workflows</li>
+        <li>Travel policy rules and approval hierarchies</li>
+        <li>Multi-city and international itineraries</li>
+        <li>Mobile trip management and itinerary visibility</li>
+        <li>Spend forecasting, policy insights and reporting</li>
+        <li>Changes, cancellations and post-booking support</li>
+      </ul>
+      <p><em>Product lens: policy compliance, traveller experience, approval efficiency and spend visibility.</em></p>
+      <p><a href="https://github.com/NithinRavindran/Corporate-Travel-Platform"><strong>Explore the Corporate Travel Platform repository →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 · Vulnerability & Incident Management</h3>
+      <strong>Security operations · Scanner orchestration · Incident lifecycle</strong>
+      <p>Security product workflows connecting infrastructure findings, alerts and incident response.</p>
+      <ul>
+        <li>Vulnerability scanner orchestration across infrastructure</li>
+        <li>Findings, severity and prioritisation workflows</li>
+        <li>SIEM alert-to-incident correlation</li>
+        <li>Incident lifecycle, ownership and resolution states</li>
+        <li>Dashboards for MTTR, incident trends and SLA compliance</li>
+      </ul>
+      <p><em>Product lens: actionable findings, response time, incident resolution and SLA performance.</em></p>
     </td>
   </tr>
 </table>
 
-## 02 / Product portfolio
+## 03 / Product ownership & delivery
 
-A selection of product domains and problem spaces I have worked on or explored. The descriptions focus on product workflows and responsibilities; confidential employer and customer information is excluded.
+Across these domains, my work connects business expectations with engineering execution.
 
-### <a href="https://github.com/NithinRavindran/Corporate-Travel-Platform">01 — Corporate Travel Platform ↗</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Product discovery & analysis</h3>
+      <ul>
+        <li>Stakeholder discussions and requirement discovery</li>
+        <li>Current-state and future-state workflow analysis</li>
+        <li>Problem definition and impact assessment</li>
+        <li>Functional and non-functional requirements</li>
+        <li>Business rules, process flows and dependencies</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Product definition</h3>
+      <ul>
+        <li>Product scope and feature definition</li>
+        <li>Epics, user stories and acceptance criteria</li>
+        <li>Backlog refinement and prioritisation</li>
+        <li>Requirement traceability and change control</li>
+        <li>Roadmap and release planning support</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Delivery & stakeholder management</h3>
+      <ul>
+        <li>Cross-functional coordination with engineering and QA</li>
+        <li>Agile and Scrum ceremonies</li>
+        <li>Dependency, risk and scope management</li>
+        <li>UAT planning, execution and sign-off</li>
+        <li>Release readiness and go-live coordination</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Quality & continuous improvement</h3>
+      <ul>
+        <li>End-to-end workflow and edge-case validation</li>
+        <li>API and integration testing support</li>
+        <li>Defect triage and resolution follow-up</li>
+        <li>Post-release monitoring and feedback</li>
+        <li>Outcome tracking and process improvement</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-**A connected business travel experience, from planning to post-booking.**
+## 04 / Product outcomes
 
-A product concept and portfolio repository covering the workflows involved in managing employee and corporate travel.
-
-| Product area | Scope |
-|---|---|
-| Travel search & booking | Flights, hotels, transfers and travel packages |
-| Complex itineraries | Multi-city and international travel scenarios |
-| Corporate controls | Travel policies, approval flows and booking rules |
-| Trip experience | Mobile trip management and itinerary access |
-| Spend intelligence | Spend forecasting, policy insights and travel visibility |
-| Post-booking | Changes, cancellations and trip support workflows |
-
-**Product considerations:** booking conversion, policy compliance, approval turnaround, booking completion, itinerary changes and spend visibility.
-
-<p>
-  <a href="https://github.com/NithinRavindran/Corporate-Travel-Platform"><strong>View project repository →</strong></a>
-</p>
-
----
-
-### 02 — Vulnerability & Incident Management
-
-**From security findings to actionable incident workflows.**
-
-Product work involving vulnerability scanner orchestration, alert correlation and incident lifecycle management.
-
-- Scanner orchestration across infrastructure nodes
-- Alert-to-incident correlation and incident creation logic
-- Lifecycle states, ownership and resolution workflows
-- Incident analytics covering MTTR, volume trends and SLA compliance
-
-**Product considerations:** actionable alert rate, time to triage, MTTR, SLA adherence and incident resolution quality.
-
----
-
-### 03 — Healthcare ERP / Hospital Information Systems
-
-**Reliable workflows for hospital operations and clinical information.**
-
-Business and systems analysis across hospital modules and integration-heavy workflows.
-
-- Patient scheduling and appointment management
-- EMR, pharmacy, inventory and laboratory workflows
-- Laboratory Information System (LIS) requirements
-- Laboratory device interfacing and data exchange
-- UAT, release validation and post-deployment stabilisation
-
-**Product considerations:** workflow accuracy, data completeness, first-pass UAT acceptance, defect leakage and operational continuity.
-
----
-
-### 04 — AI-enabled Travel Experiences
-
-**Exploring practical AI assistance within travel journeys.**
-
-Product analysis and requirements thinking for AI-enabled travel assistance, with a focus on user needs and operational usefulness.
-
-- Travel discovery and conversational assistance scenarios
-- Understanding user intent and expected response behaviour
-- Defining useful, clear and testable AI-assisted workflows
-- Considering response quality, escalation and user trust
-
-**Product considerations:** task completion, response relevance, fallback handling, user satisfaction and successful hand-off to support.
-
-## 03 / Product impact
-
-Examples of outcome measures associated with the product and delivery work described above. These are project-level results, not claims of individual ownership in isolation.
+A few reported project-level outcome measures from the travel and security product work:
 
 <table>
   <tr>
     <td width="25%" align="center">
-      <h2>~15%</h2>
+      <h1>~15%</h1>
       <strong>Booking success</strong><br/>
       <sub>Improvement reported</sub>
     </td>
     <td width="25%" align="center">
-      <h2>10–12%</h2>
+      <h1>10–12%</h1>
       <strong>Booking drop-offs</strong><br/>
       <sub>Reduction reported</sub>
     </td>
     <td width="25%" align="center">
-      <h2>35%</h2>
+      <h1>35%</h1>
       <strong>MTTR</strong><br/>
       <sub>Reduction reported</sub>
     </td>
     <td width="25%" align="center">
-      <h2>20% → 75%</h2>
-      <strong>Alert conversion</strong><br/>
-      <sub>Actionable incident conversion</sub>
+      <h1>20% → 75%</h1>
+      <strong>Actionable incidents</strong><br/>
+      <sub>Conversion improvement</sub>
     </td>
   </tr>
 </table>
 
-I use metrics to connect delivery work to outcomes — not just to count completed features.
+I focus on connecting product and delivery decisions to outcomes such as booking completion, data accuracy, workflow efficiency, incident response and user experience.
 
-## 04 / Product ownership toolkit
+## 05 / Technical understanding
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Product strategy & discovery</h3>
-      <ul>
-        <li>Problem framing and opportunity analysis</li>
-        <li>Stakeholder and user interviews</li>
-        <li>Product vision, scope and MVP definition</li>
-        <li>Roadmap input and release planning</li>
-        <li>Business value and impact assessment</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Requirements & prioritisation</h3>
-      <ul>
-        <li>BRD, FRD and PRD documentation</li>
-        <li>Epics, user stories and acceptance criteria</li>
-        <li>Backlog refinement and prioritisation</li>
-        <li>Dependency and change management</li>
-        <li>Traceability and scope control</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Delivery & quality</h3>
-      <ul>
-        <li>Cross-functional team coordination</li>
-        <li>Agile and Scrum delivery</li>
-        <li>UAT planning and stakeholder sign-off</li>
-        <li>Release readiness and go-live support</li>
-        <li>Post-release feedback and stabilisation</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Product analytics</h3>
-      <ul>
-        <li>Product KPIs and outcome measures</li>
-        <li>Funnels, conversion and drop-off analysis</li>
-        <li>Feature adoption and usage</li>
-        <li>Operational dashboards and SLA tracking</li>
-        <li>Data-informed prioritisation</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## 05 / Technical fluency
-
-I use technical understanding to clarify requirements, assess dependencies and collaborate effectively with engineering teams.
+I’m comfortable working with technical teams and translating between business requirements and system behaviour.
 
 <p>
-  <img src="https://img.shields.io/badge/Frontend-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Backend-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/API-REST%20%7C%20JSON-64748B?style=flat-square" alt="REST APIs and JSON" />
-  <img src="https://img.shields.io/badge/API%20Testing-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Documentation-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
-  <img src="https://img.shields.io/badge/Query-SQL-336791?style=flat-square" alt="SQL" />
-  <img src="https://img.shields.io/badge/Delivery-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Knowledge-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence" />
-  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/REST_API-64748B?style=flat-square" alt="REST API" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-| Area | Tools / concepts |
+| Area | Technologies and tools |
 |---|---|
-| Product delivery | Jira, Confluence, Agile, Scrum |
+| Product & delivery | Jira, Confluence, Agile, Scrum |
 | UX & process | Figma, Lucidchart, workflow mapping |
-| API & integration | REST APIs, JSON, Postman, Swagger |
+| APIs & integration | REST APIs, JSON, Postman, Swagger |
 | Data | SQL, PostgreSQL, Excel, data validation |
-| Application context | Angular, Node.js, NestJS, TypeORM |
+| Application technologies | Angular, Node.js, NestJS, TypeORM |
+| Healthcare domain | HIMS, EHR / EMR, LIS, laboratory device interfacing |
+| Travel domain | GDS, airline integrations, LCC, NDC, booking workflows |
 
-## 06 / How I approach a product problem
+## 06 / Product lifecycle
 
-<img src="assets/product-lifecycle.svg" width="100%" alt="Product lifecycle: Discover, define, prioritise, deliver, measure and learn." />
+<img src="assets/product-lifecycle.svg" width="100%" alt="Discover, define, prioritise, deliver, measure and learn product lifecycle." />
 
-| Stage | Key question | Typical output |
-|---|---|---|
-| Discover | What problem are we solving, and for whom? | Problem statement, user insights |
-| Define | What should the product do? | Scope, requirements, user stories |
-| Prioritise | What matters most now? | Prioritised backlog, trade-offs |
-| Deliver | How will we build and validate it? | Acceptance criteria, UAT, release plan |
-| Measure | Did it improve the intended outcome? | KPI review, feedback, insights |
-| Learn | What should we improve next? | Iteration and roadmap input |
+| Stage | What I focus on |
+|---|---|
+| Discover | User needs, stakeholder goals and business problems |
+| Define | Product scope, requirements and acceptance criteria |
+| Prioritise | Value, urgency, effort, risk and dependencies |
+| Deliver | Engineering collaboration, QA, UAT and release readiness |
+| Measure | Product KPIs, workflow performance and user feedback |
+| Improve | Iteration, backlog updates and roadmap recommendations |
 
-## 07 / Current learning focus
+## 07 / What I’m learning next
 
-I’m continuing to strengthen the areas that connect product decisions with measurable customer and business outcomes.
+I’m strengthening my product management capabilities in areas that help connect customer needs, product strategy and measurable outcomes.
 
-- **Product analytics:** event thinking, funnels, retention, adoption and experimentation
+- **Product analytics:** funnels, adoption, retention, conversion and experimentation
 - **AI product management:** LLM foundations, prompt design, evaluation and responsible AI use cases
-- **Technical product ownership:** APIs, integrations, system design fundamentals and data flows
-- **Product strategy:** discovery, prioritisation, outcome-based roadmaps and product metrics
+- **Technical product ownership:** APIs, integrations, architecture fundamentals and data flows
+- **Product strategy:** discovery, prioritisation, MVP thinking and outcome-based roadmaps
 
 ## 08 / Let's connect
 
-I’m interested in **Product Owner, Product Analyst and Associate Product Manager** opportunities where I can bring together business understanding, technical fluency and a strong focus on product outcomes.
+I’m interested in **Product Owner, Product Analyst and Associate Product Manager** opportunities where I can bring together cross-domain product experience, business analysis and technical understanding.
 
 <div align="center">
 
 <a href="https://github.com/NithinRavindran"><img src="https://img.shields.io/badge/GitHub-NithinRavindran-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<a href="https://github.com/NithinRavindran/Corporate-Travel-Platform"><img src="https://img.shields.io/badge/Explore-Corporate_Travel_Project-183B56?style=for-the-badge&logo=github&logoColor=white" alt="Corporate Travel project" /></a>
+<a href="https://github.com/NithinRavindran?tab=repositories"><img src="https://img.shields.io/badge/Explore-All_Repositories-315A8B?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
 
 <br/><br/>
-<sub>Product thinking · Clear requirements · Collaborative delivery · Measurable outcomes</sub>
+<sub>Healthcare · Travel Technology · Corporate Travel · Vulnerability & Incident Management</sub>
 
 </div>
 
 ---
 
-<sub>Portfolio note: Product descriptions are intentionally written at a non-confidential level. Metrics represent reported project outcomes and should be interpreted in their project context. This portfolio distinguishes professional experience from concept documentation and ongoing learning.</sub>
+<sub>Portfolio note: This page summarises professional domain experience and selected portfolio work. The Corporate Travel Platform link is a portfolio repository; other domain descriptions summarise experience and do not imply that employer-owned systems or confidential source code are public.</sub>
