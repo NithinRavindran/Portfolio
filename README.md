@@ -14,7 +14,8 @@
 
 [Explore projects](https://github.com/NithinRavindran?tab=repositories) &nbsp;·&nbsp;
 [Corporate Travel Platform](https://github.com/NithinRavindran/Corporate-Travel-Platform) &nbsp;·&nbsp;
-[GitHub profile](https://github.com/NithinRavindran)
+[GitHub profile](https://github.com/NithinRavindran) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/nithin-ravindran-422895103/)
 
 </div>
 
