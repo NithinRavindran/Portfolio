@@ -28,7 +28,7 @@ My experience covers understanding business workflows, gathering and analysing r
 
 Working across these domains has given me exposure to very different product challenges — from clinical data accuracy and laboratory device connectivity to travel booking journeys, corporate policy controls and security incident lifecycles.
 
-A few scale and outcome measures from this work include **10+ healthcare organisations**, **3,000+ infrastructure nodes**, **80+ travel product user stories**, and measurable improvements in booking performance, data consistency, delivery throughput and incident response.
+A few scale and outcome measures from this work include **10+ hospital implementations**, **15+ production releases**, and vulnerability scanning across **3,000+ infrastructure nodes**, and measurable improvements in booking performance, data consistency, delivery throughput and incident response.
 
 I enjoy connecting the business problem with the technical solution and making sure the team is building something useful, clear and measurable.
 
@@ -49,7 +49,7 @@ The four domains below represent the breadth of my product and business analysis
         <li>Laboratory device interfacing and result exchange</li>
         <li>Data validation, UAT and release quality</li>
       </ul>
-      <p><strong>Scale & outcomes:</strong> Supported implementations across <strong>10+ healthcare organisations</strong> and validation across <strong>15+ production releases</strong>. Reported outcomes included <strong>18% better data consistency</strong>, <strong>40% less manual effort</strong> through automation, and <strong>zero operational failures at go-live</strong>.</p>
+      <p><strong>Scale & outcomes:</strong> Supported implementations across <strong>10+ healthcare organisations</strong> and validation across <strong>15+ production releases</strong>. Reported outcomes included <strong>30% fewer post-deployment defects</strong>, <strong>20% improvement in sprint velocity</strong> and <strong>92% first-pass UAT acceptance</strong>.</p>
       <p><em>Product lens: clinical workflow accuracy, data integrity, interoperability and operational reliability.</em></p>
     </td>
     <td width="50%" valign="top">
@@ -63,7 +63,7 @@ The four domains below represent the breadth of my product and business analysis
         <li>GDS, airline, LCC and NDC integrations</li>
         <li>Pricing, availability, booking, cancellation and servicing</li>
       </ul>
-      <p><strong>Reported outcomes:</strong> Booking success improved by approximately <strong>15%</strong>, while booking drop-offs reduced by <strong>10–12%</strong>.</p>
+      <p><strong>Reported outcomes:</strong> Booking success improved by approximately <strong>15%</strong>, booking drop-offs reduced by <strong>10–12%</strong>, and delivery efficiency improved by <strong>25–30%</strong> with around <strong>30% less rework</strong>.</p>
       <p><em>Product lens: booking conversion, supplier connectivity, search relevance and transaction success.</em></p>
     </td>
   </tr>
@@ -158,7 +158,7 @@ Selected scale and outcome measures from the projects and product work described
   <tr>
     <td width="25%" align="center">
       <h1>10+</h1>
-      <strong>Healthcare organisations</strong><br/>
+      <strong>Hospitals implemented</strong><br/>
       <sub>HIMS implementations</sub>
     </td>
     <td width="25%" align="center">
@@ -167,8 +167,8 @@ Selected scale and outcome measures from the projects and product work described
       <sub>Healthcare delivery & validation</sub>
     </td>
     <td width="25%" align="center">
-      <h1>80+</h1>
-      <strong>User stories</strong><br/>
+      <h1>92%</h1>
+      <strong>First-pass UAT</strong><br/>
       <sub>Travel platform scope</sub>
     </td>
     <td width="25%" align="center">
@@ -181,14 +181,13 @@ Selected scale and outcome measures from the projects and product work described
 
 | Product domain | Quantified result | What it indicates |
 |---|---:|---|
-| Healthcare systems | **+18%** data consistency | Improved consistency across healthcare data workflows |
-| Healthcare systems | **−40%** manual effort | Less manual work through process automation |
-| Healthcare systems | **0** operational failures at go-live | Stable go-live outcome reported for the implementation |
+| Healthcare systems | **−30%** post-deployment defects | Fewer defects after release |
+| Healthcare systems | **+20%** sprint velocity | Improved delivery throughput |
+| Healthcare systems | **92%** first-pass UAT acceptance | Stronger requirements and release validation |
 | B2B & B2C travel technology | **~15%** higher booking success | Improved completion across booking journeys |
 | B2B & B2C travel technology | **10–12%** fewer booking drop-offs | Reduced abandonment during booking |
-| Travel platform delivery | **12** technical specifications | Technical scope and integration requirements documented |
-| Travel platform delivery | **+25%** delivery throughput | Improved delivery flow |
-| Travel platform delivery | **−60%** production defect leakage | Fewer defects reaching production |
+| Travel product delivery | **25–30%** better delivery efficiency | Improved delivery process |
+| Travel product delivery | **~30%** less rework | Clearer requirements and reduced delivery churn |
 | Vulnerability & incident management | **−35%** MTTR | Faster incident resolution |
 | Vulnerability & incident management | **20% → 75%** actionable incident conversion | More alerts converted into actionable incidents |
 
