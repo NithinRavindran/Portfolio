@@ -1,34 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-  <title id="title">Nithin Ravindran — Product and Technology Portfolio</title>
-  <desc id="desc">A dark terminal-inspired banner introducing a Product Owner and Technical Business Analyst working across healthcare, travel technology, corporate travel, and vulnerability management.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#101827"/>
-      <stop offset="1" stop-color="#172b3d"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#62d6c8"/>
-      <stop offset="1" stop-color="#8bbcff"/>
-    </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#9bb4cc" stroke-opacity=".07" stroke-width="1"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="330" rx="22" fill="url(#bg)"/>
-  <rect width="1200" height="330" rx="22" fill="url(#grid)"/>
-  <rect x="34" y="28" width="1132" height="274" rx="15" fill="#0b1220" fill-opacity=".56" stroke="#7894ad" stroke-opacity=".28"/>
-  <circle cx="62" cy="54" r="6" fill="#f28b82"/>
-  <circle cx="84" cy="54" r="6" fill="#fbbc04"/>
-  <circle cx="106" cy="54" r="6" fill="#81c995"/>
-  <text x="132" y="59" fill="#a9bacb" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">nithin@product-portfolio:~</text>
-  <text x="76" y="135" fill="#f3f7fb" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">Nithin Ravindran</text>
-  <rect x="76" y="157" width="58" height="4" rx="2" fill="url(#accent)"/>
-  <text x="76" y="198" fill="#d6e2ee" font-family="Arial, Helvetica, sans-serif" font-size="22">Product Owner  |  Technical Business Analyst</text>
-  <text x="76" y="239" fill="#a9bacb" font-family="Arial, Helvetica, sans-serif" font-size="16">Turning business problems into clear requirements and useful product outcomes.</text>
-  <text x="76" y="275" fill="#74d9ca" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">healthcare  ·  travel tech  ·  corporate travel  ·  vulnerability management</text>
-  <path d="M1030 115h75M1030 145h55M1030 175h90M1030 205h65" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity=".8"/>
-  <circle cx="1118" cy="115" r="5" fill="#62d6c8"/>
-  <circle cx="1096" cy="145" r="5" fill="#8bbcff"/>
-  <circle cx="1131" cy="175" r="5" fill="#62d6c8"/>
-  <circle cx="1106" cy="205" r="5" fill="#8bbcff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Nithin Ravindran — Product Management Portfolio</title>
+<desc id="desc">Modern dark navy and teal product portfolio banner with a product strategy and delivery motif.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081321"/><stop offset="1" stop-color="#1A3650"/></linearGradient>
+ <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38D6C5"/><stop offset="1" stop-color="#8BA7FF"/></linearGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#A6C4DD" stroke-opacity=".08"/></pattern>
+ <radialGradient id="orb"><stop stop-color="#2CB7A8" stop-opacity=".25"/><stop offset="1" stop-color="#2CB7A8" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<circle cx="1040" cy="175" r="245" fill="url(#orb)"/>
+<rect x="35" y="30" width="1130" height="300" rx="18" fill="#07111E" fill-opacity=".45" stroke="#7EA0BC" stroke-opacity=".25"/>
+<circle cx="68" cy="62" r="6" fill="#F28B82"/><circle cx="90" cy="62" r="6" fill="#FDD16A"/><circle cx="112" cy="62" r="6" fill="#71D6A0"/>
+<text x="140" y="67" fill="#A9BED1" font-family="ui-monospace,Consolas,monospace" font-size="13">NITHIN RAVINDRAN  /  PRODUCT PORTFOLIO</text>
+<text x="76" y="150" fill="#F4F8FC" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700">Product thinking.</text>
+<text x="76" y="207" fill="#F4F8FC" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700">Technology in action.</text>
+<rect x="78" y="230" width="100" height="4" rx="2" fill="url(#glow)"/>
+<text x="76" y="270" fill="#D5E2ED" font-family="Arial,Helvetica,sans-serif" font-size="20">Product Owner  ·  Product Business Analyst</text>
+<text x="76" y="302" fill="#8FA9BE" font-family="Arial,Helvetica,sans-serif" font-size="15">4+ years across healthcare, travel technology and security products</text>
+<g transform="translate(880 105)" fill="none" stroke="url(#glow)" stroke-width="2.2">
+ <rect x="0" y="0" width="210" height="150" rx="18" stroke-opacity=".45"/>
+ <path d="M35 40H175M35 75H145M35 110H160" stroke-opacity=".45" stroke-linecap="round"/>
+ <circle cx="35" cy="40" r="8" fill="#38D6C5" stroke="none"/><circle cx="175" cy="75" r="8" fill="#8BA7FF" stroke="none"/><circle cx="160" cy="110" r="8" fill="#38D6C5" stroke="none"/>
+ <path d="M35 40L175 75L160 110" stroke-opacity=".8"/>
+</g>
 </svg>
