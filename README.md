@@ -77,7 +77,6 @@ The four domains below represent the breadth of my product and business analysis
         <li>Changes, cancellations and post-booking support</li>
       </ul>
       <p><em>Product lens: policy compliance, traveller experience, approval efficiency and spend visibility.</em></p>
-      <p><a href="https://github.com/NithinRavindran/Corporate-Travel-Platform"><strong>Explore the Corporate Travel Platform repository →</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>04 · Vulnerability & Incident Management</h3>
